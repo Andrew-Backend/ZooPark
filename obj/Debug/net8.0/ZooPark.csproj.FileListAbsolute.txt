@@ -1,0 +1,15 @@
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\bin\Debug\net8.0\ZooPark.exe
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\bin\Debug\net8.0\ZooPark.deps.json
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\bin\Debug\net8.0\ZooPark.runtimeconfig.json
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\bin\Debug\net8.0\ZooPark.dll
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\bin\Debug\net8.0\ZooPark.pdb
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.AssemblyInfoInputs.cache
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.AssemblyInfo.cs
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.csproj.CoreCompileInputs.cache
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.sourcelink.json
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.dll
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\refint\ZooPark.dll
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.pdb
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ZooPark.genruntimeconfig.cache
+C:\Users\Amin_stors\Desktop\repozitories\ZooPark\obj\Debug\net8.0\ref\ZooPark.dll

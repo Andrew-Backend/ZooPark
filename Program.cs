@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Zoo ZooPark = new Zoo();
+            ZooPark.CreateAnimal("тигр", Type.млекопитающее, 6);
+            ZooPark.CreateAnimal("крокодил", Type.рептилия, 10);
+            ZooPark.CreateAnimal("гусь", Type.птица, 4);
+            ZooPark.CreateAnimal("лягушка", Type.земноводное, 1);
+
+            ZooPark.ShowAllAnimals();
+
+            ZooPark.DestroyAnimal("гусь");
+
+            ZooPark.ShowAllAnimals();
+
+
         }
     }
 }
