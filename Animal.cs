@@ -8,15 +8,19 @@ namespace ZooPark
 {
     public enum Type
     {
-        млекопитающее,
+        млекопитающее = 1,
         птица,
         земноводное,
         рептилия
     }
     internal class Animal
     {
-        public string name;
-        public Type type;
+        private string name;
+        public string Name { get { return name; } }
+
+        private Type type;
+        public Type Type { get { return type; } }
+
         private int age;
 
         public int Age { 
